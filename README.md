@@ -188,3 +188,17 @@ I'm always interested in connecting with developers, collaborating on meaningful
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:075985,100:020024&height=120&section=footer"/>
 
 </div>
+<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Akhilsharma18/Akhilsharma18/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Akhilsharma18/Akhilsharma18/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/Akhilsharma18/Akhilsharma18/output/github-snake.svg" />
+</picture>
+
+</div>
