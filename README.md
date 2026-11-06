@@ -1,6 +1,5 @@
  <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:075985,100:00D9FF&height=200&section=header&text=AKHIL%20SHARMA&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Code.%20Create.%20Innovate.&descSize=18&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:075985,100:00D9FF&height=120&section=header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;AI%2FML+%26+Generative+AI+Enthusiast;Problem+Solver+%7C+Creative+Thinker;Turning+Ideas+Into+Real+Applications" />
 
