@@ -1,118 +1,135 @@
  <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Akhil+Sharma+%F0%9F%91%8B;Full+Stack+Developer;AI%2FML+%26+GenAI+Enthusiast;Problem+Solver;Building+Ideas+Into+Reality" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:075985,100:00D9FF&height=200&section=header&text=AKHIL%20SHARMA&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Code.%20Create.%20Innovate.&descSize=18&descAlignY=58&animation=fadeIn" />
 
-<h3>Full Stack Developer | AI/ML Enthusiast | Problem Solver</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;AI%2FML+%26+Generative+AI+Enthusiast;Problem+Solver+%7C+Creative+Thinker;Turning+Ideas+Into+Real+Applications" />
 
-<p>
+<br/>
+
 <a href="https://github.com/Akhilsharma18">
-<img src="https://img.shields.io/badge/GitHub-Akhilsharma18-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Explore_My_Code-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF"/>
 </a>
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/akhil-sharma-98a848313/">
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Say_Hello-00D9FF?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
-</p>
 
-<img src="https://komarev.com/ghpvc/?username=Akhilsharma18&label=PROFILE+VIEWS&color=00D9FF&style=flat-square" />
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Akhilsharma18&style=for-the-badge&color=075985&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<h2 align="center">⌘ &nbsp; THE DEVELOPER BEHIND THE CODE</h2>
 
-Hey! I'm **Akhil Sharma**, a second-year B.Tech student at Maharaja Agrasen Institute of Technology, Delhi.
+```yaml
+name: Akhil Sharma
+role: Full Stack Developer
+education: B.Tech - Information Technology
 
-I'm passionate about software development, problem-solving and building practical applications.
+interests:
+  - Full Stack Development
+  - Artificial Intelligence
+  - Machine Learning
+  - Generative AI
+  - Agentic AI Systems
+  - Data Structures & Algorithms
 
-- 💻 Full-Stack Web Development
-- 🧠 Data Structures & Algorithms
-- 🤖 Artificial Intelligence & Machine Learning
-- ⚡ Generative AI, LLMs & AI Agents
-- 🚀 Building real-world software projects
-- 🤝 Open to collaboration and exciting opportunities
+currently_building:
+  - GETRYDE
+  - Intelligent Applications
 
----
+mindset: "Learn. Build. Improve. Repeat."
+```
 
-## 🛠️ Languages & Technologies
+I'm a second-year B.Tech student at Maharaja Agrasen Institute of Technology, passionate about building useful software and solving real-world problems through technology.
 
-### Programming Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,javascript" />
-</p>
-
-### Frontend Development
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
-</p>
-
-### Backend Development & Database
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" />
-</p>
-
-### Tools & Platforms
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
-</p>
-
-### AI / ML
-
-`Machine Learning` · `Deep Learning` · `NLP` · `LLMs` · `Generative AI` · `AI Agents`
+I enjoy working across the development lifecycle, from planning and designing to development, testing and deployment.
 
 ---
 
-## 🚀 Featured Projects
+<h2 align="center">⚡ &nbsp; MY TECH UNIVERSE</h2>
+
+<div align="center">
+
+### `01` — Programming Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,java&theme=dark" />
+
+### `02` — Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" />
+
+### `03` — Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres&theme=dark" />
+
+### `04` — Tools & Environment
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark" />
+
+### `05` — AI / ML
+
+`Machine Learning` &nbsp; `Deep Learning` &nbsp; `NLP`
+
+`LLMs` &nbsp; `Generative AI` &nbsp; `AI Agents`
+
+</div>
+
+---
+
+<h2 align="center">🚀 &nbsp; THINGS I'VE BUILT</h2>
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🚖 GETRYDE
+<h3>🚖 GETRYDE</h3>
 
-A modern ride-booking platform designed to provide a seamless transportation experience with real-time tracking.
+**Ride Booking Platform**
 
-**Tech Stack:**
-Next.js, TypeScript, Node.js, PostgreSQL, Socket.IO
+A modern ride-booking platform focused on convenient transportation, real-time tracking and seamless ride experiences.
+
+`Next.js` `TypeScript` `Node.js` `PostgreSQL` `Socket.IO`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 Job Genie
+<h3>🤖 JOB GENIE</h3>
 
-An AI-assisted recruitment platform that analyzes resumes, matches candidates with jobs and helps recruiters manage applications.
+**AI-Assisted Recruitment Platform**
 
-**Tech Stack:**
-React, Node.js, Express, MongoDB, Python, NLP
+Resume parsing, candidate-job matching, application scoring and recruiter management.
+
+`React` `Node.js` `MongoDB` `Python` `NLP`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🚗 Travel Buddy
+<h3>🚗 TRAVEL BUDDY</h3>
 
-A college carpooling platform connecting students through location-based route matching, ride requests and notifications.
+**College Carpooling Platform**
 
-**Tech Stack:**
-React, Node.js, MongoDB, Maps
+Connect students through location-based route matching, ride requests, confirmations and notifications.
+
+`React` `Node.js` `MongoDB` `Maps`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📚 JKBOSE Pro
+<h3>📚 JKBOSE PRO</h3>
 
-An educational platform providing access to previous-year questions and academic resources for students.
+**Educational Resource Platform**
 
-**Tech Stack:**
-React, Tailwind CSS, Node.js, Express, MongoDB
+A student-focused platform for accessing previous-year questions and academic resources.
+
+`React` `Tailwind CSS` `Express` `MongoDB`
 
 </td>
 </tr>
@@ -120,40 +137,44 @@ React, Tailwind CSS, Node.js, Express, MongoDB
 
 ---
 
-## 📊 GitHub Statistics
+<h2 align="center">📊 &nbsp; GITHUB ANALYTICS</h2>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Akhilsharma18&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Akhilsharma18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilsharma18&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilsharma18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Akhilsharma18&theme=tokyonight&hide_border=true" />
+<img width="75%" src="https://streak-stats.demolab.com?user=Akhilsharma18&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
 
 </div>
 
 ---
 
-## 🔥 Contribution Activity
+<h2 align="center">🌌 &nbsp; CONTRIBUTION MATRIX</h2>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akhilsharma18&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true" width="100%" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Akhilsharma18&bg_color=0D1117&color=00D9FF&line=0088CC&point=FFFFFF&area=true&hide_border=true&custom_title=My%20Coding%20Activity"/>
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+<h2 align="center">🤝 &nbsp; LET'S BUILD SOMETHING TOGETHER</h2>
 
 <div align="center">
+
+I'm always interested in connecting with developers, collaborating on meaningful projects and learning new technologies.
+
+<br/>
 
 <a href="https://github.com/Akhilsharma18">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/akhil-sharma-98a848313/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:YOUR_EMAIL">
@@ -162,8 +183,8 @@ React, Tailwind CSS, Node.js, Express, MongoDB
 
 <br/><br/>
 
-### 💬 Let's Connect, Collaborate & Build Something Amazing!
+**"Dream in ideas. Build with code. Deliver with purpose."**
 
-*"Great things are built one line of code at a time."*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:075985,100:020024&height=120&section=footer"/>
 
 </div>
